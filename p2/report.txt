@@ -1,0 +1,4 @@
+Programming language used: java
+Implementation status: 
+Build a fast access data structure for searching terms in the dictionary by hash table. Implement the Document-At-A-Time algorithm for processing vector space queries based on the Cosine similarity function
+Return the top 10 results in descending similarity value

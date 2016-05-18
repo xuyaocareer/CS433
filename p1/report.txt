@@ -1,0 +1,4 @@
+Programming language used: java
+Implementation status: 
+We implement the tokenisation and building of dictionary. 
+For the tokenisation process, we ignore all the numbers and reduce most special symbols such as ‘?’, ‘-’, ‘@’ and etc, but keep ‘&’ because this are essential for some terms such as company names. And we stems the terms using open source code from http://www.tartarus.org/~martin/PorterStemmer. In total, we have 491 terms after tokenisation and stemming.
